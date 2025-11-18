@@ -5,4 +5,5 @@ It shows my learning process and i wil also able to learn building logics behind
 Day 01 = Band Name Generator ✅  
 Day 02 = Tip Calculator ✅  
 Day 03 = Treasure Island ✅  
-Day 04 = Rock Paper Scissors ✅ 
+Day 04 = Rock Paper Scissors ✅   
+day 05 = Password Generator ✅
